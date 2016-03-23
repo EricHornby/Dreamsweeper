@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Habitat SVN\Assets\Scripts\Missions\Level1MissionManager.cs">
+    <Files>
+      <File FileName="..\Habitat SVN\Assets\3rd Party\HighlightingSystemDemo\Scripts\SceneLoader.cs" Line="1" Column="1" />
+      <File FileName="..\Habitat SVN\Assets\Scripts\Missions\Level1MissionManager.cs" Line="260" Column="154" />
+      <File FileName="..\Habitat SVN\Assets\Scripts\Missions\MissionManager.cs" Line="848" Column="39" />
+      <File FileName="..\Habitat SVN\Assets\Scripts\Missions\LevelMissionManager.cs" Line="27" Column="2" />
+      <File FileName="..\Habitat SVN\Assets\Scripts\Missions\Level3MissionManager.cs" Line="74" Column="52" />
+      <File FileName="..\Habitat SVN\Assets\Scripts\Missions\Level5MissionManager.cs" Line="280" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

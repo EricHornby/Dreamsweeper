@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\BigStar.cs">
+    <Files>
+      <File FileName="Assets\MainCharacter.cs" Line="214" Column="16" />
+      <File FileName="Assets\Monster.cs" Line="168" Column="2" />
+      <File FileName="Assets\FallingStar.cs" Line="32" Column="35" />
+      <File FileName="Assets\BigStar.cs" Line="11" Column="29" />
+      <File FileName="Assets\Attack.cs" Line="12" Column="23" />
+      <File FileName="Assets\EffectAnim.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
